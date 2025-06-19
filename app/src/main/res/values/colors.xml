@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Céu limpo 01-->
+    <color name="weather_clear_sky1">#4FC3F7</color> <!-- azul claro -->
+    <color name="weather_clear_sky_dark1">#0288D1</color>
+
+    <!-- Poucas nuvens 03-->
+    <color name="weather_few_clouds3">#81D4FA</color>
+    <color name="weather_few_clouds_dark3">#039BE5</color>
+
+    <!-- Nuvens dispersas 04-->
+    <color name="weather_scattered_clouds4">#90A4AE</color> <!-- cinza azulado -->
+    <color name="weather_scattered_clouds_dark4">#607D8B</color>
+
+    <!-- Nublado 02 -->
+    <color name="weather_cloudy2">#B0BEC5</color>
+    <color name="weather_cloudy_dark2">#78909C</color>
+
+    <!-- Chuva leve 10-->
+    <color name="weather_light_rain10">#64B5F6</color> <!-- azul acinzentado -->
+    <color name="weather_light_rain_dark10">#1E88E5</color>
+
+    <!-- Chuva forte 11 -->
+    <color name="weather_heavy_rain09">#455A64</color> <!-- cinza escuro -->
+    <color name="weather_heavy_rain_dark09">#263238</color>
+
+    <!-- Tempestade  11-->
+    <color name="weather_thunderstorm11">#616161</color>
+    <color name="weather_thunderstorm_dark11">#212121</color>
+
+    <!-- Neve -->
+    <color name="weather_snow">#ECEFF1</color> <!-- branco gelo -->
+    <color name="weather_snow_dark">#CFD8DC</color>
+
+    <!-- Névoa 50 -->
+    <color name="weather_fog50">#BDBDBD</color>
+    <color name="weather_fog_dark50">#9E9E9E</color>
+
+</resources>
